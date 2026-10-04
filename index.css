@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+html {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 19px;
+  }
+}
+
+/* Smooth font rendering for Spanish and Armenian scripts */
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure armenian script has ample line height for ascenders and descenders */
+p, span, div, h1, h2, h3, h4, button {
+  letter-spacing: 0.01em;
+}

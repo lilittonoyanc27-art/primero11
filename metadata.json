@@ -1,0 +1,7 @@
+{
+  "name": "Funciones del Lenguaje - Լեզվի Գործառույթներ (7º Grado)",
+  "description": "Իսպաներեն լեզվի 6 գործառույթների ուսուցում և քննական թեստեր 7-րդ դասարանի համար՝ հայերեն թարգմանությամբ և բացատրություններով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
